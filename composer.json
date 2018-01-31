@@ -13,7 +13,7 @@
         	"exclude": ["/Tests"]
 	},
 	"autoload": {
-		"psr-4": { "SonataMediaCrop\\": "lib/" }
+		"psr-0": { "Media\\": "src/" }
 	},
 	"branch-alias": {
 		"dev-master": "master"
